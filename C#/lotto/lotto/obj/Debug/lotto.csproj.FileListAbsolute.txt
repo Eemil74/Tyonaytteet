@@ -1,0 +1,30 @@
+C:\Users\topiadmin\source\repos\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\topiadmin\source\repos\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\topiadmin\source\repos\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.Form1.resources
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.Properties.Resources.resources
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\topiadmin\source\repos\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.Form1.resources
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.Properties.Resources.resources
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\topiadmin\source\repos\lotto\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.Form1.resources
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.Properties.Resources.resources
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.cache
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\eemil_rsaj8a7\Downloads\lotto Veljen neuvvoma tapa (1)\lotto\lotto\lotto\obj\Debug\lotto.pdb
